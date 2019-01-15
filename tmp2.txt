@@ -1,0 +1,605 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit)
+entering extended mode
+(C:/Users/Aspire/Desktop/in¿/EngineerThesisLaTeX/eng/thesis.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk12.clo"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"))
+
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
+f")
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-polish\poli
+sh.ldf"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
+def")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\bri
+tish.ldf"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\eng
+lish.ldf")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg") ("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.st
+y"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
+\tikz.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+f.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+rcs.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-common.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-common-lists.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-latex.def"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty")
+)
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfrcs.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+fcore.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
+gfsys.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeys.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeysfiltered.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgf.cfg")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys-pdftex.def"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys-common-pdf.def")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsyssoftpath.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsysprotocol.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcore.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hcalc.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hutil.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hparser.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.basic.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.trigonometric.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.random.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.comparison.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.base.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.round.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.misc.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.integerarithmetics.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfloat.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepoints.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathconstruct.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathusage.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorescopes.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoregraphicstate.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoretransformations.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorequick.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreobjects.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathprocessing.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorearrows.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreshade.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreimage.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreexternal.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorelayers.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoretransparency.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepatterns.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduleshapes.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduleplot.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+\pgfcomp-version-0-65.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+\pgfcomp-version-1-18.sty"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+for.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+keys.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeys.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.
+sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gffor.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\tikz.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryplothandlers.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+modulematrix.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarytopaths.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.revision.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tscore.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pg
+fplotssysgeneric.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\p
+gfplotslibrary.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_loader.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryfpu.code.tex")
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_pgflibraryfpu.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_pgfmathfloat.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_leq.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsutil.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsliststructure.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsliststructureext.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsarray.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsmatrix.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtab
+le\pgfplotstableshared.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsdeque.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsbinary.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsbinary.data.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsutil.verb.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\p
+gflibrarypgfplots.surfshading.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pg
+flibrarypgfplots.surfshading.pgfsys-pdftex.def")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotscolormap.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotscolor.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsstackedplots.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsplothandlers.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsmeshplothandler.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsmeshplotimage.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.scaling.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tscoordprocessing.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.errorbars.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.markers.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsticks.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.paths.code.tex")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduledecorations.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\d
+ecorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\d
+ecorations\pgflibrarydecorations.pathreplacing.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibraryplotmarks.code.tex"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryplotmarks.code.tex")))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtoo
+ls.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup
+.sty"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.cfg"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty")
+No file thesis.aux.
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"))
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty")) ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
+your preamble.
+ on input line 174.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd")
+[1{C:/Users/Aspire/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users
+/Aspire/Desktop/in¿/EngineerThesisLaTeX/eng/polsl.pdf>] [2]
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd")
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+) ("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
+d") [3] [4] [5] [6] [1]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Chapter 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.353 
+       [1]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.371 \chapter
+              {[Problem analysis]} [2]
+Chapter 2.
+
+LaTeX Warning: Reference `fig:Sudoku1' on page 3 undefined on input line 402.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.404 \chapter
+              {Requirements and tools} [3]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.404 \chapter
+              {Requirements and tools} [4 <C:/Users/Aspire/Desktop/in¿/Enginee
+rThesisLaTeX/eng/sudoku.jpg>]
+Chapter 3.
+("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd")pdf
+TeX warning (ext4): destination with the same identifier (name{page.5}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.435 \item T
+             o edit an element, user must hold finger on it for a longer per...
+[5]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.455 \chapter
+              {External specification} [6]
+Chapter 4.
+[7]
+
+LaTeX Warning: File `sudoku cell.jpg' not found on input line 550.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <C:/Users/Aspire/Desktop/in¿/EngineerThesisLaTeX/eng/instructions.jpg> <C:/
+Users/Aspire/Desktop/in¿/EngineerThesisLaTeX/eng/sudoku cell.jpg>]
+Chapter 5.
+[9]
+
+LaTeX Warning: Reference `fig:Diagram' on page 10 undefined on input line 623.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11 <C:/Users/Aspire/Desktop/in¿/EngineerThesisLaTeX/eng/UML.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12]
+Chapter 6.
+
+Overfull \hbox (3.08601pt too wide) in paragraph at lines 677--693
+[][] 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+Chapter 7.
+[15]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+No file thesis.bbl.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.II}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.779 \begin{appendices}
+                         [2] [3] [4] [5]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6] ("C:\Users\Aspire\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+)
+Underfull \vbox (badness 2932) has occurred while \output is active [7]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10] [11]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12] [13]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14] [15] (thesis.aux)
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){C:/Users/Aspire/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Aspire/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Aspire/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Aspire
+/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Aspire
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/A
+spire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Us
+ers/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C
+:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb
+><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.
+pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+ri12.pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+lm/lmss12.pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmssbx10.pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmsy10.pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmtt12.pfb><C:/Users/Aspire/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Aspire/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Aspire/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on thesis.pdf (38 pages, 1079780 bytes).
+SyncTeX written on thesis.synctex.gz.
+Transcript written on thesis.log.
+This is BibTeX, Version 0.99d (MiKTeX 2.9.6840 64-bit)
+The top-level auxiliary file: thesis.aux
+The style file: plain.bst
+I found no \citation commands---while reading file thesis.aux
+Database file #1: bibliography.bib
+(There was 1 error message)
+
+Sorry, but "MiKTeX Compiler Driver" did not succeed.
+
+The log file hopefully contains the information to get MiKTeX going again:
+
+  C:\Users\Aspire\AppData\Local\MiKTeX\2.9\miktex\log\texify.log
